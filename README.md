@@ -7,9 +7,9 @@ Status](https://travis-ci.org/react-materialize/react-materialize.svg?branch=mas
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
 
-# [react-materialize](https://react-materialize.github.io/)
+# [react-ahg-ui](https://react-ahg-ui.github.io/)
 
-Material design components for react, powered by [materializecss](http://materializecss.com/).
+Material design components for react, powered by ahg fork from [materializecss](http://materializecss.com/).
 
 ## Install
 ```
